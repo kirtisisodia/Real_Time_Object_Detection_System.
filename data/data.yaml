@@ -1,0 +1,16 @@
+path: ../data/images
+train: images
+val: images
+
+names:
+  0: helmet
+  1: safety_boots
+  2: safety_vest
+  3: fire
+  4: smoke
+  5: person_authorized
+  6: person_unknown
+  7: car
+  8: truck
+  9: bike
+  10: animal
