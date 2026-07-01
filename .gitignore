@@ -1,1 +1,42 @@
-xxxxx
+# Virtual Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+logs/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+
+# Model Weights (large files)
+*.pt
+*.pth
+*.onnx
+
+# Dataset
+data/images/
+data/labels/
+
+# Cache
+.cache/
